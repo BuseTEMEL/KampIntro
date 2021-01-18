@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerveReferansTipler", "De
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Studies", "Studies", "{AFE9CB19-C771-4116-80EC-3FEAC3E89115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date2", "Date2\Date2.csproj", "{C7B69E3F-99BF-4B23-B1F6-2A42A3A14A94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date2", "Date2\Date2.csproj", "{C7B69E3F-99BF-4B23-B1F6-2A42A3A14A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date3", "Date3\Date3.csproj", "{3CF23D78-E7DD-4CCB-BDC4-D39CEE511EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date3_ClassMetotDemo", "Date3\Date3_ClassMetotDemo.csproj", "{3CF23D78-E7DD-4CCB-BDC4-D39CEE511EDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
