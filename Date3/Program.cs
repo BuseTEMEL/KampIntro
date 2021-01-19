@@ -37,8 +37,12 @@ namespace Date3
 
             CustomerManager customerManager = new CustomerManager();
             customerManager.Add(customer1);
+            Console.WriteLine("--------------");
             customerManager.List(customers);
+            Console.WriteLine("--------------");
             customerManager.Delete(customer3);
+
+            Console.ReadKey();
 
         }
 

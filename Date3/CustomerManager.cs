@@ -8,7 +8,7 @@ namespace Date3
     {
         public void Add(Customer customer)
         {
-            Console.WriteLine("Customer Added :" + customer.Adi + " " + customer.Soyadi);
+            Console.WriteLine("Customer Added : \n"+ customer.Adi + " " + customer.Soyadi);
         }
 
         public void List(Customer[] customers)
@@ -16,14 +16,14 @@ namespace Date3
             Console.WriteLine("Costumer Listed :");
             foreach (Customer customerItem in customers)
             {
-                Console.WriteLine(customerItem.Adi + customerItem.Soyadi);
+                Console.WriteLine(customerItem.Adi + " " + customerItem.Soyadi);
             }
 
         }
 
         public void Delete(Customer customer)
         {
-            Console.WriteLine("Customer Deleted :" + customer.Adi + customer.Soyadi);
+            Console.WriteLine("Customer Deleted : \n" + customer.Adi + " " + customer.Soyadi);
         }
 
     }
