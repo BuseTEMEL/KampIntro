@@ -9,6 +9,7 @@ namespace Date3
     {
         static void Main(string[] args)
         {
+
             Customer customer1 = new Customer();
             customer1.Id = 1;
             customer1.Adi = "Özkan";
