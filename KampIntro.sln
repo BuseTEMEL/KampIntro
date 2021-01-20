@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date2", "Studies\Date2\Date
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Date3_ClassMetotDemo", "Studies\Date3\Date3_ClassMetotDemo.csproj", "{57872029-155F-4515-8FDA-9412FEA6075B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date3_RefOutKeyword", "Date3_RefOutKeyword\Date3_RefOutKeyword.csproj", "{535CB534-3DF2-4269-A536-74D0A604F54B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{57872029-155F-4515-8FDA-9412FEA6075B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57872029-155F-4515-8FDA-9412FEA6075B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57872029-155F-4515-8FDA-9412FEA6075B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535CB534-3DF2-4269-A536-74D0A604F54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535CB534-3DF2-4269-A536-74D0A604F54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535CB534-3DF2-4269-A536-74D0A604F54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535CB534-3DF2-4269-A536-74D0A604F54B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BE7AF5C2-F7AA-4E63-A915-0DEF3904A597} = {AFE9CB19-C771-4116-80EC-3FEAC3E89115}
 		{57872029-155F-4515-8FDA-9412FEA6075B} = {AFE9CB19-C771-4116-80EC-3FEAC3E89115}
+		{535CB534-3DF2-4269-A536-74D0A604F54B} = {AFE9CB19-C771-4116-80EC-3FEAC3E89115}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F440A866-3AD1-4786-96F8-B713983071B4}
