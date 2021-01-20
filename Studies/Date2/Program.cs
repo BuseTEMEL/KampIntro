@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Date2
+namespace WDate2
 {    
     //Herhangi bir e-ticaret sistemine giriniz.
     //Genellikle bir e-ticaret sistemine girdiğinizde ürünler listelenir.Siz de Urun(Product) isimli bir class oluşturup, oluşturduğunuz bir kaç ürünü bir diziye ekleyiniz.
